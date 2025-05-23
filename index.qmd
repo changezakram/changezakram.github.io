@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My ML Projects"
+title: "Exploring Machine Learning and Generative AI"
 format: html
 ---
 
