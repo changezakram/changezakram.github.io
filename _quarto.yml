@@ -3,7 +3,7 @@ project:
   output-dir: .
 
 website:
-  title: "changezakram.github.io"
+  title: "Changez Akram"
   navbar:
     left:
       - href: index.qmd
