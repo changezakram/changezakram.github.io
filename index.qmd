@@ -5,7 +5,7 @@ format: html
 
 Welcome! I'm using this site to share my learning and exploration in **Machine Learning**, **Deep Learning**, and **Generative AI**.
 
-📘 **Projects:**
+### 📘 Learning Topics
 
 - [Deep Generative Models](https://changezakram.github.io/Deep-Generative-Models/)
 - Large Language Models (LLMs) — *coming soon*
