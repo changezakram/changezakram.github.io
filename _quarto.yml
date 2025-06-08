@@ -3,7 +3,7 @@ project:
   output-dir: .
 
 website:
-  title: "Changez Akram"
+  title: ""
   navbar:
     left:
       - icon: house
