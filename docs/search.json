@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Exploring Machine Learning and Generative AI",
+    "section": "",
+    "text": "Welcome! I’m using this site to share my learning and exploration in Machine Learning, Deep Learning, and Generative AI.\n\n📘 Learning Topics\n\nDeep Generative Models\nLarge Language Models (LLMs) — coming soon"
+  }
+]
