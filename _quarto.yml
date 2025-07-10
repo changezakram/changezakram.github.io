@@ -23,7 +23,7 @@ website:
 
       - text: Large Language Models
         menu:
-          - text: Transformers [Coming Soon]
+          - text: Transformers
             href: https://changezakram.github.io/Deep-Generative-Models/coming-soon.html
 
       - text: Agentic AI
