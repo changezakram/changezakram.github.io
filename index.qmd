@@ -9,3 +9,16 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 
 - [Deep Generative Models](https://changezakram.github.io/Deep-Generative-Models/)
 - Large Language Models (LLMs) — *coming soon*
+
+
+
+<details>
+<summary><a href="https://changezakram.github.io/Deep-Generative-Models/">Deep Generative Models</a></summary>
+
+- [Overview](https://changezakram.github.io/Deep-Generative-Models/)
+- [Variational Autoencoders (VAEs)](https://changezakram.github.io/Deep-Generative-Models/vae.html)
+- [Normalizing Flows](https://changezakram.github.io/Deep-Generative-Models/flows.html)
+- [Energy-Based Models (EBMs)](https://changezakram.github.io/Deep-Generative-Models/ebm.html)
+- [Diffusion Models](https://changezakram.github.io/Deep-Generative-Models/diffusion.html)
+
+</details>
