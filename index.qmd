@@ -10,7 +10,7 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 <details open>
 <summary><strong>Deep Generative Models</strong></summary>
 
-- [Generative Models Overview](https://changezakram.github.io/Deep-Generative-Models/)
+- [Generative AI Overview](https://changezakram.github.io/Deep-Generative-Models/)
 - [Variational Autoencoders (VAEs)](https://changezakram.github.io/Deep-Generative-Models/vae.html)
 - [Normalizing Flows](https://changezakram.github.io/Deep-Generative-Models/flows.html)
 - [Energy-Based Models (EBMs)](https://changezakram.github.io/Deep-Generative-Models/ebm.html)
