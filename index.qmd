@@ -7,13 +7,8 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 
 ### 📘 Learning Topics
 
-- [Deep Generative Models](https://changezakram.github.io/Deep-Generative-Models/)
-- Large Language Models (LLMs) — *coming soon*
-
-
-
 <details>
-<summary><a href="https://changezakram.github.io/Deep-Generative-Models/">Deep Generative Models</a></summary>
+<summary><strong>Deep Generative Models</strong></summary>
 
 - [Overview](https://changezakram.github.io/Deep-Generative-Models/)
 - [Variational Autoencoders (VAEs)](https://changezakram.github.io/Deep-Generative-Models/vae.html)
@@ -22,3 +17,5 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 - [Diffusion Models](https://changezakram.github.io/Deep-Generative-Models/diffusion.html)
 
 </details>
+
+- Large Language Models (LLMs) — *coming soon*
