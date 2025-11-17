@@ -7,7 +7,7 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 
 ### 📘 Learning Topics
 
-<details>
+<details open>
 <summary><strong>Deep Generative Models</strong></summary>
 
 - [Generative Models Overview](https://changezakram.github.io/Deep-Generative-Models/)
@@ -18,7 +18,7 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Large Language Models (LLMs)</strong></summary>
 
 - [Transformers](https://changezakram.github.io/Deep-Generative-Models/transformers.html)
