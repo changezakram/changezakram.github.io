@@ -26,3 +26,11 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 - [Evaluation of NLP Models](https://changezakram.github.io/Deep-Generative-Models/nlp-eval.html)
 
 </details>
+
+<details open>
+<summary><strong>Gen AI Use Cases</strong></summary>
+
+- [Banking Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
+- [Healthcare Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html)
+
+</details>
