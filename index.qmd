@@ -18,4 +18,11 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 
 </details>
 
-- Large Language Models (LLMs) — *coming soon*
+<details>
+<summary><strong>Large Language Models (LLMs)</strong></summary>
+
+- [Transformers](https://changezakram.github.io/Deep-Generative-Models/transformers.html)
+- [Post-Training Techniques](https://changezakram.github.io/Deep-Generative-Models/post-training.html)
+- [Evaluation of NLP Models](https://changezakram.github.io/Deep-Generative-Models/nlp-eval.html)
+
+</details>

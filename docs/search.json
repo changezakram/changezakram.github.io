@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Exploring Machine Learning and Generative AI",
     "section": "",
-    "text": "Welcome! I’m using this site to share my learning and exploration in Machine Learning, Deep Learning, and Generative AI.\n\n📘 Learning Topics\n\n\nDeep Generative Models\n\n\nGenerative Models Overview\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models\n\n\n\nLarge Language Models (LLMs) — coming soon"
+    "text": "Welcome! I’m using this site to share my learning and exploration in Machine Learning, Deep Learning, and Generative AI.\n\n📘 Learning Topics\n\n\nDeep Generative Models\n\n\nGenerative Models Overview\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models\n\n\n\n\nLarge Language Models (LLMs)\n\n\nTransformers\nPost-Training Techniques\nEvaluation of NLP Models"
   }
 ]
