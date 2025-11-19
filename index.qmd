@@ -28,7 +28,7 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 </details>
 
 <details open>
-<summary><strong>Agentic AI (LLMs)</strong></summary>
+<summary><strong>Agentic AI</strong></summary>
 
 - [Agentic AI Overview](https://changezakram.github.io/agentic-ai/agentic-ai.html)
 
