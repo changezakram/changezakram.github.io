@@ -30,7 +30,7 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 <details open>
 <summary><strong>Agentic AI (LLMs)</strong></summary>
 
-- [Agentic AI Introduction](https://https://changezakram.github.io/agentic-ai/agentic-ai.html)
+- [Agentic AI Overview](https://changezakram.github.io/agentic-ai/agentic-ai.html)
 
 
 </details>
