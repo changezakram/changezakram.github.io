@@ -28,6 +28,14 @@ Welcome! I'm using this site to share my learning and exploration in **Machine L
 </details>
 
 <details open>
+<summary><strong>Agentic AI (LLMs)</strong></summary>
+
+- [Agentic AI Introduction](https://https://changezakram.github.io/agentic-ai/agentic-ai.html)
+
+
+</details>
+
+<details open>
 <summary><strong>Gen AI Use Cases</strong></summary>
 
 - [Banking Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
