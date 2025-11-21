@@ -9,8 +9,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Exploring Machine Learning and Generative AI",
+    "title": "Exploring Machine Learning & Generative AI",
     "section": "",
-    "text": "Welcome! I’m using this site to share my learning and exploration in Machine Learning, Deep Learning, and Generative AI.\n\n📘 Learning Topics\n\n\nDeep Generative Models\n\n\nGenerative AI Overview\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models\n\n\n\n\nLarge Language Models (LLMs)\n\n\nTransformers\nPost-Training Techniques\nEvaluation of NLP Models\n\n\n\n\nAgentic AI\n\n\nAgentic AI Overview\n\n\n\n\nGen AI Use Cases\n\n\nBanking Use Cases\nHealthcare Use Cases"
+    "text": "Welcome! This site documents my journey through Machine Learning,\nDeep Generative Models, Large Language Models, and the rapidly expanding\nworld of Agentic AI.\nI learn in public — sharing detailed math, intuition, hands-on implementations,\nand real-world Generative AI use cases across industries."
+  },
+  {
+    "objectID": "index.html#learning-topics",
+    "href": "index.html#learning-topics",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "📚 Learning Topics",
+    "text": "📚 Learning Topics\nExplore topics across Generative AI, Large Language Models, Agentic AI,\nand industry-specific applications."
+  },
+  {
+    "objectID": "index.html#deep-generative-models",
+    "href": "index.html#deep-generative-models",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "📦 Deep Generative Models",
+    "text": "📦 Deep Generative Models\n\nGenerative AI Overview\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
+  },
+  {
+    "objectID": "index.html#large-language-models-llms",
+    "href": "index.html#large-language-models-llms",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "💬 Large Language Models (LLMs)",
+    "text": "💬 Large Language Models (LLMs)\n\nTransformers\n\nPost-Training Techniques\n\nEvaluation of NLP Models"
+  },
+  {
+    "objectID": "index.html#agentic-ai",
+    "href": "index.html#agentic-ai",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "🤖 Agentic AI",
+    "text": "🤖 Agentic AI\n\nAgentic AI Overview"
+  },
+  {
+    "objectID": "index.html#industry-use-cases",
+    "href": "index.html#industry-use-cases",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "🧩 Industry Use Cases",
+    "text": "🧩 Industry Use Cases\n\nBanking Use Cases\nHealthcare Use Cases"
   }
 ]
