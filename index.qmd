@@ -7,15 +7,12 @@ format:
     toc: false
 ---
 
-::: {.hero .mb-5 style="padding: 2.5rem; background: #f8f9fa; border-radius: 14px;"}
+::: {.hero .mb-4 style="padding: 1.5rem; background: #f8f9fa; border-radius: 12px;"}
 # Exploring Machine Learning & Generative AI
 
 Welcome! This site documents my journey through **Machine Learning**,  
-**Deep Generative Models**, **Large Language Models**, and the rapidly expanding  
-world of **Agentic AI**.
-
-I learn in public — sharing detailed math, intuition, hands-on implementations,  
-and real-world Generative AI use cases across industries.
+**Deep Generative Models**, **Large Language Models**, and the rapidly  
+expanding world of **Agentic AI**.
 :::
 
 ---
