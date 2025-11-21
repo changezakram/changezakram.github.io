@@ -22,9 +22,6 @@ and real-world Generative AI use cases across industries.
 
 ## 📚 Learning Topics
 
-Explore topics across Generative AI, Large Language Models, Agentic AI,  
-and industry-specific applications.
-
 ::: {.grid .mt-4}
 
 ## 📦 Deep Generative Models {.g-col-6 .card .p-4 .mb-3}
