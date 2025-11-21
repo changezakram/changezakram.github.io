@@ -1,5 +1,5 @@
 ---
-title: "Exploring Machine Learning & Generative AI"
+title: ""
 page-layout: full
 format:
   html:
