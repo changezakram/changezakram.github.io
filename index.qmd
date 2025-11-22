@@ -27,11 +27,6 @@ bridging technical depth with strategic business applications.
 
 ---
 
-::: {.section-header style="display: flex; align-items: center; gap: 0.75rem; margin: 3rem 0 2.5rem;"}
-<span style="font-size: 1.75rem;">📚</span>
-<h2 style="font-family: 'Crimson Pro', serif; font-size: 2rem; font-weight: 700; color: #1a365d; margin: 0;">Learning Topics</h2>
-:::
-
 ::: {.grid .topics-grid}
 
 ::: {.g-col-12 .g-col-md-6 .topic-card .mb-3}
