@@ -23,7 +23,7 @@ bridging technical depth with strategic business applications.
 
 ---
 
-::: {.grid .mt-4}
+::: {.grid .mt-5}
 
 ## Deep Generative Models {.g-col-6 .card .p-4 .mb-3}
 - [Generative AI Overview](https://changezakram.github.io/Deep-Generative-Models/)
@@ -47,8 +47,20 @@ bridging technical depth with strategic business applications.
 :::
 
 
+
 ::: {.panel .border-0 .my-4}
 <style>
+
+/* Hero to cards spacing */
+.hero-section + hr {
+  margin: 3rem 0;
+  border: none;
+  opacity: 0;
+}
+
+.grid.mt-5 {
+  margin-top: 4rem !important;
+}
 
 /* Base card design */
 .card {
