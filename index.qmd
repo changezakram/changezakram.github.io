@@ -221,9 +221,16 @@ body {
     margin-bottom: 0.75rem !important;
   }
   
-  /* Mobile hero adjustments - reduce padding to show content above fold */
+  /* Mobile hero adjustments */
   .hero-section {
     padding: 1.5rem 0 1rem !important;
+    border-left: none !important;  /* Remove border from hero-section */
+    padding-left: 1rem !important;
+  }
+  
+  .hero-content {
+    border-left: 3px solid #0d9488 !important;  /* Add border to content */
+    padding-left: 1rem !important;
   }
   
   .hero-content h1 {
@@ -237,17 +244,12 @@ body {
     word-spacing: 0.05em !important;
   }
   
-/* Simplify hero on mobile */
-.hero-section {
-  border-left: 3px solid #0d9488;
-  padding-left: 1rem !important;
-}
-
-.hero-section::before {
-  opacity: 0.4;
-  width: 300px;
-  height: 300px;
-}
+  /* Simplify hero on mobile */
+  .hero-section::before {
+    opacity: 0.4;
+    width: 300px;
+    height: 300px;
+  }
   
   /* Reduce spacing on mobile */
   .hero-section + hr {
@@ -258,5 +260,6 @@ body {
     margin-top: 1rem !important;
   }
 }
+
 </style>
 :::
