@@ -46,218 +46,68 @@ bridging technical depth with strategic business applications.
 
 :::
 
-::: {.custom-styles}
+
+::: {.panel .border-0 .my-4}
 <style>
 
-/* CSS Variables */
-:root {
-    --primary: #1a365d;
-    --accent: #d97706;
-    --text: #1e293b;
-    --text-light: #64748b;
-    --surface: #f8fafc;
-    --surface-elevated: #ffffff;
-    --border: #e2e8f0;
+/* Base card design */
+.card {
+  border-radius: 12px !important;
+  border: 1px solid #e6e6e6 !important;
+  padding: 1.1rem !important;
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.04);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-/* Global Improvements */
-body {
-    font-family: 'DM Sans', sans-serif !important;
-    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%) !important;
-    -webkit-font-smoothing: antialiased;
+/* Hover effect (desktop only) */
+@media (min-width: 768px) {
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.07);
+  }
 }
 
-/* Hero Section */
-.hero-section {
-    animation: fadeInUp 0.8s ease;
+/* Clean title (no background box) */
+.card h2, .card h3, .card h4 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #1a365d;
+  font-family: 'Crimson Pro', serif;
 }
 
-/* Topic Cards */
-.topic-card {
-    background: var(--surface-elevated);
-    border: 1px solid var(--border) !important;
-    border-radius: 12px !important;
-    padding: 2.5rem !important;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    position: relative;
-    overflow: hidden;
-    box-shadow: none !important;
+/* Bullet spacing */
+.card ul {
+  margin: 0.25rem 0 0 1rem;
+  padding: 0;
 }
 
-.topic-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 4px;
-    height: 0;
-    background: var(--accent);
-    transition: height 0.4s ease;
+.card li {
+  margin-bottom: 0.32rem;
 }
 
-.topic-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08) !important;
-    border-color: var(--accent) !important;
-}
-
-.topic-card:hover::before {
-    height: 100%;
-}
-
-/* Staggered Animation */
-.topics-grid .topic-card:nth-child(1) {
-    animation: fadeInUp 0.6s ease 0.1s backwards;
-}
-
-.topics-grid .topic-card:nth-child(2) {
-    animation: fadeInUp 0.6s ease 0.2s backwards;
-}
-
-.topics-grid .topic-card:nth-child(3) {
-    animation: fadeInUp 0.6s ease 0.3s backwards;
-}
-
-.topics-grid .topic-card:nth-child(4) {
-    animation: fadeInUp 0.6s ease 0.4s backwards;
-}
-
-/* Topic Header */
-.topic-header {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    margin-bottom: 1.5rem;
-}
-
-.topic-icon {
-    font-size: 1.5rem;
-}
-
-.topic-card h3 {
-    font-family: 'Crimson Pro', serif !important;
-    font-size: 1.5rem !important;
-    font-weight: 600 !important;
-    color: var(--primary) !important;
-    margin: 0 !important;
-}
-
-/* Topic Links */
-.topic-links {
-    list-style: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    display: flex;
-    flex-direction: column;
-    gap: 0.875rem;
-}
-
-.topic-links li {
-    position: relative;
-    padding-left: 1.25rem;
-    margin: 0 !important;
-}
-
-.topic-links li::before {
-    content: '→';
-    position: absolute;
-    left: 0;
-    color: var(--accent);
-    font-weight: 700;
-    transition: transform 0.2s ease;
-}
-
-.topic-links li:hover::before {
-    transform: translateX(4px);
-}
-
-.topic-links a {
-    color: var(--text) !important;
-    text-decoration: none !important;
-    font-size: 0.95rem;
-    transition: color 0.2s ease;
-    font-weight: 500;
-}
-
-.topic-links a:hover {
-    color: var(--accent) !important;
-}
-
-/* Animations */
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(30px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-/* Mobile Responsive - Cards Stack on Small Screens */
+/* --------------------------
+   MOBILE OPTIMIZATIONS
+---------------------------- */
 @media (max-width: 768px) {
-    /* Hero adjustments */
-    .hero-section {
-        padding: 2rem 0 1.5rem !important;
-    }
-    
-    .hero-content h1 {
-        font-size: 2.25rem !important;
-    }
-    
-    .hero-content p {
-        font-size: 1.1rem !important;
-    }
-    
-    /* Section header */
-    .section-header {
-        margin: 2rem 0 1.5rem !important;
-    }
-    
-    .section-header h2 {
-        font-size: 1.75rem !important;
-    }
-    
-    /* Force full width stacking on mobile */
-    .g-col-12 {
-        grid-column: span 12 !important;
-    }
-    
-    /* Compact card padding */
-    .topic-card {
-        padding: 2rem !important;
-        margin-bottom: 1.5rem !important;
-    }
-    
-    .topic-card h3 {
-        font-size: 1.35rem !important;
-    }
-    
-    .topic-links {
-        gap: 0.75rem;
-    }
-    
-    .topic-links a {
-        font-size: 0.9rem;
-    }
-    
-    /* Disable hover effects on mobile */
-    .topic-card:hover {
-        transform: none;
-        box-shadow: none !important;
-    }
-}
 
-/* Tablet Adjustments */
-@media (min-width: 769px) and (max-width: 1024px) {
-    .hero-content h1 {
-        font-size: 2.5rem !important;
-    }
-    
-    .topic-card {
-        padding: 2rem !important;
-    }
+  /* Full-width cards */
+  .g-col-6 {
+    grid-column: span 12 !important;
+  }
+
+  /* Compact cards */
+  .card {
+    padding: 0.85rem !important;
+    margin-bottom: 0.85rem !important;
+  }
+
+  /* Compact header spacing */
+  .card h2, .card h3, .card h4 {
+    font-size: 1.05rem !important;
+    margin-bottom: 0.55rem !important;
+  }
 }
 
 </style>
