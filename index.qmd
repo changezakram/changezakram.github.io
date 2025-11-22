@@ -53,29 +53,48 @@ bridging technical depth with strategic business applications.
 
 /* Hero to cards spacing */
 .hero-section + hr {
-  margin: 1rem 0;
+  margin: 1.5rem 0;
   border: none;
   opacity: 0;
 }
 
 .grid.mt-5 {
-  margin-top: 1.5rem !important;
+  margin-top: 2rem !important;
 }
 
 /* Base card design */
 .card {
   border-radius: 12px !important;
-  border: 1px solid #e6e6e6 !important;
-  padding: 1.1rem !important;
+  border: 1px solid #e2e8f0 !important;
+  padding: 2rem !important;
   box-shadow: 0px 1px 3px rgba(0,0,0,0.04);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  background: #ffffff !important;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 0;
+  background: #d97706;
+  transition: height 0.4s ease;
 }
 
 /* Hover effect (desktop only) */
 @media (min-width: 768px) {
   .card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0px 3px 10px rgba(0,0,0,0.07);
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+    border-color: #d97706 !important;
+  }
+  
+  .card:hover::before {
+    height: 100%;
   }
 }
 
@@ -87,6 +106,9 @@ bridging technical depth with strategic business applications.
   font-weight: 700;
   color: #1a365d;
   font-family: 'Crimson Pro', serif;
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
 }
 
 /* Bullet spacing */
@@ -111,8 +133,8 @@ bridging technical depth with strategic business applications.
 
   /* Compact cards */
   .card {
-    padding: 0.85rem !important;
-    margin-bottom: 0.85rem !important;
+    padding: 1.5rem !important;
+    margin-bottom: 1rem !important;
   }
 
   /* Compact header spacing */
