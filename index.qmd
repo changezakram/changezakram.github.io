@@ -91,7 +91,7 @@ body {
   left: 0;
   width: 4px;
   height: 0;
-  background: #d97706;
+  background: #0d9488;
   transition: height 0.4s ease;
 }
 
@@ -100,7 +100,7 @@ body {
   .card:hover {
     transform: translateY(-4px);
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
-    border-color: #d97706 !important;
+    border-color: #0d9488 !important;
   }
   
   .card:hover::before {
@@ -141,7 +141,7 @@ body {
 }
 
 .card a:hover {
-  color: #d97706;
+  color: #0d9488;
 }
 
 .card a::after {
@@ -151,7 +151,7 @@ body {
   left: 0;
   width: 0;
   height: 1px;
-  background: #d97706;
+  background: #0d9488;
   transition: width 0.3s ease;
 }
 
