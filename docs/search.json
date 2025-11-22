@@ -11,6 +11,34 @@
     "href": "index.html",
     "title": "Exploring Machine Learning & Generative AI",
     "section": "",
-    "text": "Documenting my journey through Machine Learning, Deep Generative Models, Large Language Models, and the rapidly expanding world of Agentic AI — bridging technical depth with strategic business applications.\n\n\n\n\n\n\n\n🎨\n\nDeep Generative Models\n\n\n\n\nGenerative AI Overview\n\n\nVariational Autoencoders (VAEs)\n\n\nNormalizing Flows\n\n\nEnergy-Based Models (EBMs)\n\n\nDiffusion Models\n\n\n\n\n\n💬\n\nLarge Language Models\n\n\n\n\nTransformers\n\n\nPost-Training Techniques\n\n\nEvaluation of NLP Models\n\n\n\n\n\n🤖\n\nAgentic AI\n\n\n\n\nAgentic AI Overview\n\n\n\n\n\n🏢\n\nIndustry Use Cases\n\n\n\n\nBanking Use Cases\n\n\nHealthcare Use Cases"
+    "text": "Documenting my journey through Machine Learning, Deep Generative Models, Large Language Models, and the rapidly expanding world of Agentic AI — bridging technical depth with strategic business applications."
+  },
+  {
+    "objectID": "index.html#deep-generative-models",
+    "href": "index.html#deep-generative-models",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "Deep Generative Models",
+    "text": "Deep Generative Models\n\nGenerative AI Overview\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
+  },
+  {
+    "objectID": "index.html#large-language-models-llms",
+    "href": "index.html#large-language-models-llms",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "Large Language Models (LLMs)",
+    "text": "Large Language Models (LLMs)\n\nTransformers\n\nPost-Training Techniques\n\nEvaluation of NLP Models"
+  },
+  {
+    "objectID": "index.html#agentic-ai",
+    "href": "index.html#agentic-ai",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "Agentic AI",
+    "text": "Agentic AI\n\nAgentic AI Overview"
+  },
+  {
+    "objectID": "index.html#industry-use-cases",
+    "href": "index.html#industry-use-cases",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "Industry Use Cases",
+    "text": "Industry Use Cases\n\nBanking Use Cases\nHealthcare Use Cases"
   }
 ]

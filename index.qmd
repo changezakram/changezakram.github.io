@@ -23,54 +23,26 @@ bridging technical depth with strategic business applications.
 
 ---
 
-::: {.grid .topics-grid}
+::: {.grid .mt-4}
 
-::: {.g-col-12 .g-col-md-6 .topic-card .mb-3}
-<div class="topic-header">
-<span class="topic-icon">🎨</span>
-<h3>Deep Generative Models</h3>
-</div>
-<ul class="topic-links">
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/">Generative AI Overview</a></li>
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/vae.html">Variational Autoencoders (VAEs)</a></li>
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/flows.html">Normalizing Flows</a></li>
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/ebm.html">Energy-Based Models (EBMs)</a></li>
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/diffusion.html">Diffusion Models</a></li>
-</ul>
-:::
+## Deep Generative Models {.g-col-6 .card .p-4 .mb-3}
+- [Generative AI Overview](https://changezakram.github.io/Deep-Generative-Models/)
+- [Variational Autoencoders (VAEs)](https://changezakram.github.io/Deep-Generative-Models/vae.html)
+- [Normalizing Flows](https://changezakram.github.io/Deep-Generative-Models/flows.html)
+- [Energy-Based Models (EBMs)](https://changezakram.github.io/Deep-Generative-Models/ebm.html)
+- [Diffusion Models](https://changezakram.github.io/Deep-Generative-Models/diffusion.html)
 
-::: {.g-col-12 .g-col-md-6 .topic-card .mb-3}
-<div class="topic-header">
-<span class="topic-icon">💬</span>
-<h3>Large Language Models</h3>
-</div>
-<ul class="topic-links">
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/transformers.html">Transformers</a></li>
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/post-training.html">Post-Training Techniques</a></li>
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/nlp-eval.html">Evaluation of NLP Models</a></li>
-</ul>
-:::
+## Large Language Models (LLMs) {.g-col-6 .card .p-4 .mb-3}
+- [Transformers](https://changezakram.github.io/Deep-Generative-Models/transformers.html)  
+- [Post-Training Techniques](https://changezakram.github.io/Deep-Generative-Models/post-training.html)  
+- [Evaluation of NLP Models](https://changezakram.github.io/Deep-Generative-Models/nlp-eval.html)
 
-::: {.g-col-12 .g-col-md-6 .topic-card .mb-3}
-<div class="topic-header">
-<span class="topic-icon">🤖</span>
-<h3>Agentic AI</h3>
-</div>
-<ul class="topic-links">
-<li><a href="https://changezakram.github.io/agentic-ai/agentic-ai.html">Agentic AI Overview</a></li>
-</ul>
-:::
+## Agentic AI {.g-col-6 .card .p-4 .mb-3}
+- [Agentic AI Overview](https://changezakram.github.io/agentic-ai/agentic-ai.html)
 
-::: {.g-col-12 .g-col-md-6 .topic-card .mb-3}
-<div class="topic-header">
-<span class="topic-icon">🏢</span>
-<h3>Industry Use Cases</h3>
-</div>
-<ul class="topic-links">
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html">Banking Use Cases</a></li>
-<li><a href="https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html">Healthcare Use Cases</a></li>
-</ul>
-:::
+## Industry Use Cases {.g-col-6 .card .p-4 .mb-3}
+- [Banking Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
+- [Healthcare Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html)
 
 :::
 
