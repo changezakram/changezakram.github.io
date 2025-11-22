@@ -200,12 +200,10 @@ body {
    MOBILE OPTIMIZATIONS
 ---------------------------- */
 @media (max-width: 768px) {
-
   /* Full-width cards */
   .g-col-6 {
     grid-column: span 12 !important;
   }
-
   /* Compact cards */
   .card {
     padding: 1.5rem !important;
@@ -232,6 +230,17 @@ body {
     font-size: 1.05rem !important;
     line-height: 1.6 !important;
     word-spacing: 0.05em !important;
+  }
+  
+  /* Simplify hero background on mobile */
+  .hero-section::before {
+    width: 100%;
+    clip-path: none;
+    opacity: 0.5;
+  }
+  
+  .hero-section::after {
+    display: none;
   }
   
   /* Reduce spacing on mobile */
