@@ -371,12 +371,30 @@ body {
     margin-bottom: 0.75rem !important;
   }
   
-  /* Hero adjustments */
+  /* Mobile hero adjustments - reduce padding to show content above fold */
   .hero-section {
-    padding: 2rem 0 1.5rem !important;
+    padding: 1.5rem 0 1rem !important;
+  }
+  
+  .hero-content h1 {
+    font-size: 2rem !important;
+    margin-bottom: 1rem !important;
+  }
+  
+  .hero-content p {
+    font-size: 1rem !important;
+    line-height: 1.5 !important;
+  }
+  
+  /* Reduce spacing on mobile */
+  .hero-section + hr {
+    margin: 0.75rem 0 !important;
+  }
+  
+  .grid.mt-5 {
+    margin-top: 1rem !important;
   }
 }
-
 </style>
 </div>
 
