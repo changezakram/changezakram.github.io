@@ -198,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&amp;family=DM+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet"></p>
-<div class="hero-section" style="padding: 2.5rem 0 1rem;">
+<div class="hero-section" style="padding: 2.5rem 0 1rem; padding-bottom: 3rem;">
 <section id="exploring-machine-learning-generative-ai" class="level1 hero-content" style="font-family: 'Crimson Pro', serif; font-size: 3rem; font-weight: 700; color: #1a365d; line-height: 1.1; margin-bottom: 1.5rem; letter-spacing: -0.03em;">
 
 <p style="font-size: 1.25rem; color: #3f4957; line-height: 1.6; margin: 0;">
@@ -256,8 +256,8 @@ body {
 /* Hero visual - Accent Bar + Glow */
 .hero-section {
   position: relative;
-  overflow: hidden;
-  border-left: 4px solid #0d9488;
+  overflow: visible;
+  border-left: none;
   padding-left: 2rem !important;
 }
 
@@ -282,6 +282,8 @@ body {
 .hero-content {
   position: relative;
   z-index: 2;
+  border-left: 4px solid #0d9488;
+  padding-left: 1.5rem;
 }
 
 

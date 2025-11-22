@@ -11,7 +11,7 @@ format:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 
-::: {.hero-section style="padding: 2.5rem 0 1rem;"}
+::: {.hero-section style="padding: 2.5rem 0 1rem; padding-bottom: 3rem;"}
 ::: {.hero-content style="max-width: 800px;"}
 # Exploring Machine Learning & Generative AI {style="font-family: 'Crimson Pro', serif; font-size: 3rem; font-weight: 700; color: #1a365d; line-height: 1.1; margin-bottom: 1.5rem; letter-spacing: -0.03em;"}
 
@@ -66,8 +66,8 @@ body {
 /* Hero visual - Accent Bar + Glow */
 .hero-section {
   position: relative;
-  overflow: hidden;
-  border-left: 4px solid #0d9488;
+  overflow: visible;
+  border-left: none;
   padding-left: 2rem !important;
 }
 
@@ -92,6 +92,8 @@ body {
 .hero-content {
   position: relative;
   z-index: 2;
+  border-left: 4px solid #0d9488;
+  padding-left: 1.5rem;
 }
 
 
