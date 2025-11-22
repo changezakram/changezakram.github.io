@@ -7,36 +7,40 @@ format:
     toc: false
 ---
 
-::: {.hero .mb-4 style="padding: 1.5rem; background: #f8f9fa; border-radius: 12px;"}
-# Exploring Machine Learning & Generative AI
+::: {.hero-section style="padding: 2.5rem 0 2rem;"}
+::: {.hero-content style="max-width: 800px;"}
+# Exploring Machine Learning & Generative AI {style="font-family: 'Crimson Pro', serif; font-size: 3rem; font-weight: 700; color: #1a365d; line-height: 1.1; margin-bottom: 1.5rem; letter-spacing: -0.03em;"}
 
-Welcome! This site documents my journey through **Machine Learning**,  
-**Deep Generative Models**, **Large Language Models**, and the rapidly  
-expanding world of **Agentic AI**.
+<p style="font-size: 1.25rem; color: #475569; line-height: 1.7; margin: 0;">
+Documenting my journey through <strong style="color: #1a365d; font-weight: 700;">Machine Learning</strong>, 
+<strong style="color: #1a365d; font-weight: 700;">Deep Generative Models</strong>, 
+<strong style="color: #1a365d; font-weight: 700;">Large Language Models</strong>, 
+and the rapidly expanding world of <strong style="color: #1a365d; font-weight: 700;">Agentic AI</strong> — 
+bridging technical depth with strategic business applications.
+</p>
+:::
 :::
 
 ---
 
-## 📚 Learning Topics
+::: {.grid .mt-5}
 
-::: {.grid .mt-4}
-
-## 📦 Deep Generative Models {.g-col-6 .card .p-4 .mb-3}
+## Deep Generative Models {.g-col-6 .card .p-4 .mb-3}
 - [Generative AI Overview](https://changezakram.github.io/Deep-Generative-Models/)
 - [Variational Autoencoders (VAEs)](https://changezakram.github.io/Deep-Generative-Models/vae.html)
 - [Normalizing Flows](https://changezakram.github.io/Deep-Generative-Models/flows.html)
 - [Energy-Based Models (EBMs)](https://changezakram.github.io/Deep-Generative-Models/ebm.html)
 - [Diffusion Models](https://changezakram.github.io/Deep-Generative-Models/diffusion.html)
 
-## 💬 Large Language Models (LLMs) {.g-col-6 .card .p-4 .mb-3}
+## Large Language Models (LLMs) {.g-col-6 .card .p-4 .mb-3}
 - [Transformers](https://changezakram.github.io/Deep-Generative-Models/transformers.html)  
 - [Post-Training Techniques](https://changezakram.github.io/Deep-Generative-Models/post-training.html)  
 - [Evaluation of NLP Models](https://changezakram.github.io/Deep-Generative-Models/nlp-eval.html)
 
-## 🤖 Agentic AI {.g-col-6 .card .p-4 .mb-3}
+## Agentic AI {.g-col-6 .card .p-4 .mb-3}
 - [Agentic AI Overview](https://changezakram.github.io/agentic-ai/agentic-ai.html)
 
-## 🧩 Industry Use Cases {.g-col-6 .card .p-4 .mb-3}
+## Industry Use Cases {.g-col-6 .card .p-4 .mb-3}
 - [Banking Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
 - [Healthcare Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html)
 
@@ -46,6 +50,17 @@ expanding world of **Agentic AI**.
 
 ::: {.panel .border-0 .my-4}
 <style>
+
+/* Hero to cards spacing */
+.hero-section + hr {
+  margin: 1rem 0;
+  border: none;
+  opacity: 0;
+}
+
+.grid.mt-5 {
+  margin-top: 1.5rem !important;
+}
 
 /* Base card design */
 .card {
@@ -67,12 +82,11 @@ expanding world of **Agentic AI**.
 /* Clean title (no background box) */
 .card h2, .card h3, .card h4 {
   margin-top: 0;
-  margin-bottom: 0.75rem;
-  font-size: 1.15rem;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
   font-weight: 700;
-  display: flex;
-  align-items: center;
-  gap: 0.55rem;
+  color: #1a365d;
+  font-family: 'Crimson Pro', serif;
 }
 
 /* Bullet spacing */
