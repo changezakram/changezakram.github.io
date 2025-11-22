@@ -53,13 +53,13 @@ bridging technical depth with strategic business applications.
 
 /* Hero to cards spacing */
 .hero-section + hr {
-  margin: 3rem 0;
+  margin: 2rem 0;
   border: none;
   opacity: 0;
 }
 
 .grid.mt-5 {
-  margin-top: 4rem !important;
+  margin-top: 2.5rem !important;
 }
 
 /* Base card design */
