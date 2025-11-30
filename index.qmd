@@ -42,7 +42,7 @@ bridging technical depth with strategic business applications.
 - [Evaluation of NLP Models](https://changezakram.github.io/Deep-Generative-Models/nlp-eval.html)
 
 ## Agentic AI {.g-col-6 .card .p-4 .mb-3}
-- [Agentic AI Overview](https://changezakram.github.io/agentic-ai/agentic-ai.html)
+- [Introduction to Agentic AI](https://changezakram.github.io/agentic-ai/agentic-ai.html)
 - [Agentic Analytics](https://changezakram.github.io/agentic-ai/agentic-analytics.html)
 
 ## Industry Use Cases {.g-col-6 .card .p-4 .mb-3}
