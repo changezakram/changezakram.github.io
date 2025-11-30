@@ -30,7 +30,7 @@ bridging technical depth with strategic business applications.
 ::: {.grid .mt-5}
 
 ## Deep Generative Models {.g-col-6 .card .p-4 .mb-3}
-- [Generative AI Overview](https://changezakram.github.io/Deep-Generative-Models/)
+- [Introduction to Generative AI](https://changezakram.github.io/Deep-Generative-Models/)
 - [Variational Autoencoders (VAEs)](https://changezakram.github.io/Deep-Generative-Models/vae.html)
 - [Normalizing Flows](https://changezakram.github.io/Deep-Generative-Models/flows.html)
 - [Energy-Based Models (EBMs)](https://changezakram.github.io/Deep-Generative-Models/ebm.html)

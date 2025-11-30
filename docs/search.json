@@ -11,7 +11,7 @@
     "href": "index.html#deep-generative-models",
     "title": "Exploring Machine Learning & Generative AI",
     "section": "Deep Generative Models",
-    "text": "Deep Generative Models\n\nGenerative AI Overview\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
+    "text": "Deep Generative Models\n\nIntroduction to Generative AI\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
   },
   {
     "objectID": "index.html#large-language-models-llms",
