@@ -35,10 +35,10 @@
     "text": "Industry Use Cases\n\nBanking Use Cases\nHealthcare Use Cases"
   },
   {
-    "objectID": "index.html#pytorch-implementations",
-    "href": "index.html#pytorch-implementations",
+    "objectID": "index.html#code-generative-models",
+    "href": "index.html#code-generative-models",
     "title": "Exploring Machine Learning & Generative AI",
-    "section": "PyTorch Implementations",
-    "text": "PyTorch Implementations\n\nNormalizing Flows - Real NVP\nVariational Autoencoder (VAE)"
+    "section": "Code: Generative Models",
+    "text": "Code: Generative Models\n\nNormalizing Flows - Real NVP\nVariational Autoencoder (VAE)"
   }
 ]
