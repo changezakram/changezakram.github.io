@@ -49,6 +49,9 @@ bridging technical depth with strategic business applications.
 - [Banking Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
 - [Healthcare Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html)
 
+## PyTorch Implementations {.g-col-6 .card .p-4 .mb-3}
+- [Normalizing Flows - Real NVP](https://github.com/changezakram/generative-models-pytorch/blob/main/normalizing_flows/realnvp/realnvp_from_scratch.ipynb)
+- [Variational Autoencoder (VAE)](https://github.com/changezakram/generative-models-pytorch/blob/main/vae/vae_faces.ipynb)
 :::
 
 

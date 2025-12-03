@@ -33,5 +33,12 @@
     "title": "Exploring Machine Learning & Generative AI",
     "section": "Industry Use Cases",
     "text": "Industry Use Cases\n\nBanking Use Cases\nHealthcare Use Cases"
+  },
+  {
+    "objectID": "index.html#pytorch-implementations",
+    "href": "index.html#pytorch-implementations",
+    "title": "Exploring Machine Learning & Generative AI",
+    "section": "PyTorch Implementations",
+    "text": "PyTorch Implementations\n\nNormalizing Flows - Real NVP\nVariational Autoencoder (VAE)"
   }
 ]
