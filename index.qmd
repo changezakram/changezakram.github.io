@@ -40,11 +40,11 @@ bridging technical depth with strategic business applications.
 - [Transformers](https://changezakram.github.io/Deep-Generative-Models/transformers.html)  
 - [Post-Training Techniques](https://changezakram.github.io/Deep-Generative-Models/post-training.html)  
 - [Evaluation of NLP Models](https://changezakram.github.io/Deep-Generative-Models/nlp-eval.html)
-- [Small Language Models](https://changezakram.github.io/Deep-Generative-Models/slm.html)
 
 ## Agentic AI {.g-col-6 .card .p-4 .mb-3}
 - [Introduction to Agentic AI](https://changezakram.github.io/agentic-ai/agentic-ai.html)
 - [Agentic Analytics](https://changezakram.github.io/agentic-ai/agentic-analytics.html)
+- [Small Language Models](https://changezakram.github.io/Deep-Generative-Models/slm.html)
 
 ## Industry Use Cases {.g-col-6 .card .p-4 .mb-3}
 - [Banking Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
