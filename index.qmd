@@ -47,8 +47,9 @@ bridging technical depth with strategic business applications.
 - [Small Language Models](https://changezakram.github.io/Deep-Generative-Models/slm.html)
 
 ## Industry Use Cases {.g-col-6 .card .p-4 .mb-3}
-- [Banking Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
-- [Healthcare Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html)
+- [AI-First Banking Architecture & Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/ai_in_banking.html) 
+- [Gen AI Use Cases in Banking](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
+- [Gen AI Use Cases in Healthcare](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html)
 
 ## Code: Generative Models {.g-col-6 .card .p-4 .mb-3}
 - [Variational Autoencoder (VAE)](https://github.com/changezakram/generative-models-pytorch/blob/main/vae/vae_faces.ipynb)
