@@ -45,7 +45,7 @@ bridging technical depth with strategic business applications.
 - [Introduction to Agentic AI](https://changezakram.github.io/agentic-ai/agentic-ai.html)
 - [Agentic Analytics](https://changezakram.github.io/agentic-ai/agentic-analytics.html)
 - [Small Language Models](https://changezakram.github.io/Deep-Generative-Models/slm.html)
-- [Building Safe Agentic AI Systems](https://changezakram.github.io/agentic-ai/agentic_ai_safety.html)
+- [Building Safe & Secure Agentic AI](https://changezakram.github.io/agentic-ai/agentic_ai_safety.html)
 
 ## Industry Use Cases {.g-col-6 .card .p-4 .mb-3}
 - [AI-First Banking Architecture & Use Cases](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/ai_in_banking.html) 
