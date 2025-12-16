@@ -13,7 +13,7 @@ format:
 
 ::: {.hero-section style="padding: 2.5rem 0 1rem; padding-bottom: 3rem;"}
 ::: {.hero-content style="max-width: 800px;"}
-# Exploring Machine Learning & Generative AI {style="font-family: 'Crimson Pro', serif; font-size: 3rem; font-weight: 700; color: #1a365d; line-height: 1.1; margin-bottom: 1.5rem; letter-spacing: -0.03em;"}
+# Deep Learning, Generative AI & Agentic Systems {style="font-family: 'Crimson Pro', serif; font-size: 3rem; font-weight: 700; color: #1a365d; line-height: 1.1; margin-bottom: 1.5rem; letter-spacing: -0.03em;"}
 
 <p style="font-size: 1.25rem; color: #3f4957; line-height: 1.6; margin: 0;">
 Documenting my journey through <strong style="color: #1a365d; font-weight: 700;">Machine Learning</strong>, 

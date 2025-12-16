@@ -9,35 +9,35 @@
   {
     "objectID": "index.html#deep-generative-models",
     "href": "index.html#deep-generative-models",
-    "title": "Exploring Machine Learning & Generative AI",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "Deep Generative Models",
     "text": "Deep Generative Models\n\nIntroduction to Generative AI\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
   },
   {
     "objectID": "index.html#large-language-models-llms",
     "href": "index.html#large-language-models-llms",
-    "title": "Exploring Machine Learning & Generative AI",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "Large Language Models (LLMs)",
     "text": "Large Language Models (LLMs)\n\nTransformers\n\nPost-Training Techniques\n\nEvaluation of NLP Models"
   },
   {
     "objectID": "index.html#agentic-ai",
     "href": "index.html#agentic-ai",
-    "title": "Exploring Machine Learning & Generative AI",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "Agentic AI",
     "text": "Agentic AI\n\nIntroduction to Agentic AI\nAgentic Analytics\nSmall Language Models\nBuilding Safe & Secure Agentic AI"
   },
   {
     "objectID": "index.html#ai-strategy",
     "href": "index.html#ai-strategy",
-    "title": "Exploring Machine Learning & Generative AI",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "AI Strategy",
     "text": "AI Strategy\n\nBuilding the AI-First Bank: A Strategic Guide\nGen AI Use Cases in Banking\nGen AI Use Cases in Healthcare"
   },
   {
     "objectID": "index.html#code-generative-models",
     "href": "index.html#code-generative-models",
-    "title": "Exploring Machine Learning & Generative AI",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "Code: Generative Models",
     "text": "Code: Generative Models\n\nVariational Autoencoder (VAE)\nNormalizing Flows - Real NVP"
   }
