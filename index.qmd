@@ -53,6 +53,11 @@ and
 - [Gen AI Use Cases in Banking](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
 - [Gen AI Use Cases in Healthcare](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html)
 
+## Code: Deep Learning {.g-col-6 .card .p-4 .mb-3}
+- [Logistic Regression from Scratch](https://nbviewer.org/github/changezakram/deep-learning-pytorch/blob/main/01-Logistic%20Regression.ipynb)
+- [Shallow Neural Networks](https://nbviewer.org/github/changezakram/deep-learning-pytorch/blob/main/02-Shallow%20Networks.ipynb)
+- [Deep Neural Networks](https://nbviewer.org/github/changezakram/deep-learning-pytorch/blob/main/03-Deep%20Neural%20Network.ipynb)
+
 ## Code: Generative Models {.g-col-6 .card .p-4 .mb-3}
 - [Variational Autoencoder (VAE)](https://github.com/changezakram/generative-models-pytorch/blob/main/vae/vae_faces.ipynb)
 - [Normalizing Flows - Real NVP](https://github.com/changezakram/generative-models-pytorch/blob/main/normalizing_flows/realnvp/realnvp_from_scratch.ipynb)
