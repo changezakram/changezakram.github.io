@@ -50,7 +50,7 @@ and
 
 ## AI Strategy {.g-col-6 .card .p-4 .mb-3}
 - [AI Roadmap for Banking](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/ai-roadmap-for-banking.html)
-- [Building the AI-First Bank: Agents & Architecture](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/ai_first_bank.html) 
+- [The AI-First Bank: Agents & Architecture](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/ai_first_bank.html) 
 - [Gen AI Use Cases in Banking](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
 - [Gen AI Use Cases in Healthcare](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/healthcare-use-cases.html)
 
