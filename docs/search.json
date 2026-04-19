@@ -25,7 +25,7 @@
     "href": "index.html#agentic-ai",
     "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "Agentic AI",
-    "text": "Agentic AI\n\nIntroduction to Agentic AI\nAgentic Analytics\nSmall Language Models\nMulti-Agent Orchestration\nSecuring Agentic AI Systems"
+    "text": "Agentic AI\n\nIntroduction to Agentic AI\nAgentic Analytics\nSmall Language Models\nMulti-Agent Orchestration"
   },
   {
     "objectID": "index.html#ai-strategy",
@@ -33,6 +33,13 @@
     "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "AI Strategy",
     "text": "AI Strategy\n\nAI Roadmap for Banking\nThe AI-First Bank: Agents & Architecture\nGen AI Use Cases in Banking\nGen AI Use Cases in Healthcare"
+  },
+  {
+    "objectID": "index.html#responsible-ai",
+    "href": "index.html#responsible-ai",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
+    "section": "Responsible AI",
+    "text": "Responsible AI\n\nSecuring Agentic AI Systems\nAI Safety"
   },
   {
     "objectID": "index.html#code-deep-learning",
