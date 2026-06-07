@@ -28,18 +28,18 @@
     "text": "Deep Generative Models\n\nIntroduction to Generative AI\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
   },
   {
-    "objectID": "index.html#large-language-models-llms",
-    "href": "index.html#large-language-models-llms",
-    "title": "Deep Learning, Generative AI & Agentic Systems",
-    "section": "Large Language Models (LLMs)",
-    "text": "Large Language Models (LLMs)\n\nTransformers\n\nPost-Training Techniques\n\nEvaluation of NLP Models"
-  },
-  {
     "objectID": "index.html#agentic-ai",
     "href": "index.html#agentic-ai",
     "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "Agentic AI",
     "text": "Agentic AI\n\nIntroduction to Agentic AI\nAgentic Analytics\nSmall Language Models\nMulti-Agent Orchestration"
+  },
+  {
+    "objectID": "index.html#large-language-models-llms",
+    "href": "index.html#large-language-models-llms",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
+    "section": "Large Language Models (LLMs)",
+    "text": "Large Language Models (LLMs)\n\nTransformers\n\nPost-Training Techniques\n\nEvaluation of NLP Models"
   },
   {
     "objectID": "index.html#code-implementation",
