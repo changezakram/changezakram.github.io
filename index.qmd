@@ -35,6 +35,11 @@ and
 - [Document Intelligence in Financial Services](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/rag-not-a-strategy.html) 
 - [Gen AI Use Cases in Banking](https://changezakram.github.io/Deep-Generative-Models/gen-ai-use-cases/banking-use-cases.html)
 
+## Responsible AI {.g-col-6 .card .p-4 .mb-3}
+- [Securing Agentic AI Systems](https://changezakram.github.io/agentic-ai/agentic_ai_security.html)
+- [Bias, Toxicity, and Safety in AI Systems](https://changezakram.github.io/responsible-ai/ai-safety.html)
+- [Explainable AI](https://changezakram.github.io/responsible-ai/explainable-ai.html)
+
 ## Deep Generative Models {.g-col-6 .card .p-4 .mb-3}
 - [Introduction to Generative AI](https://changezakram.github.io/Deep-Generative-Models/)
 - [Variational Autoencoders (VAEs)](https://changezakram.github.io/Deep-Generative-Models/vae.html)
@@ -53,19 +58,10 @@ and
 - [Small Language Models](https://changezakram.github.io/Deep-Generative-Models/slm.html)
 - [Multi-Agent Orchestration](https://changezakram.github.io/agentic-ai/Workflow-Orchestration.html)
 
-## Responsible AI {.g-col-6 .card .p-4 .mb-3}
-- [Securing Agentic AI Systems](https://changezakram.github.io/agentic-ai/agentic_ai_security.html)
-- [Bias, Toxicity, and Safety in AI Systems](https://changezakram.github.io/responsible-ai/ai-safety.html)
-- [Explainable AI](https://changezakram.github.io/responsible-ai/explainable-ai.html)
-
-
-
-## Code: Deep Learning {.g-col-6 .card .p-4 .mb-3}
+## Code & Implementation {.g-col-6 .card .p-4 .mb-3}
 - [Logistic Regression from Scratch](https://github.com/changezakram/deep-learning-pytorch/blob/main/01-Logistic%20Regression.ipynb)
 - [Shallow Neural Networks](https://github.com/changezakram/deep-learning-pytorch/blob/main/02-Shallow%20Networks.ipynb)
 - [Deep Neural Networks](https://github.com/changezakram/deep-learning-pytorch/blob/main/03-Deep%20Neural%20Network.ipynb)
-
-## Code: Generative Models {.g-col-6 .card .p-4 .mb-3}
 - [Variational Autoencoder (VAE)](https://github.com/changezakram/generative-models-pytorch/blob/main/vae_faces.ipynb)
 - [Normalizing Flows - Real NVP](https://github.com/changezakram/generative-models-pytorch/blob/main/realnvp_from_scratch.ipynb)
 :::

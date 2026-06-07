@@ -14,6 +14,13 @@
     "text": "AI Strategy\n\nAI Roadmap for Banking\nThe AI-First Bank: Agents & Architecture\nDocument Intelligence in Financial Services\nGen AI Use Cases in Banking"
   },
   {
+    "objectID": "index.html#responsible-ai",
+    "href": "index.html#responsible-ai",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
+    "section": "Responsible AI",
+    "text": "Responsible AI\n\nSecuring Agentic AI Systems\nBias, Toxicity, and Safety in AI Systems\nExplainable AI"
+  },
+  {
     "objectID": "index.html#deep-generative-models",
     "href": "index.html#deep-generative-models",
     "title": "Deep Learning, Generative AI & Agentic Systems",
@@ -35,24 +42,10 @@
     "text": "Agentic AI\n\nIntroduction to Agentic AI\nAgentic Analytics\nSmall Language Models\nMulti-Agent Orchestration"
   },
   {
-    "objectID": "index.html#responsible-ai",
-    "href": "index.html#responsible-ai",
+    "objectID": "index.html#code-implementation",
+    "href": "index.html#code-implementation",
     "title": "Deep Learning, Generative AI & Agentic Systems",
-    "section": "Responsible AI",
-    "text": "Responsible AI\n\nSecuring Agentic AI Systems\nBias, Toxicity, and Safety in AI Systems\nExplainable AI"
-  },
-  {
-    "objectID": "index.html#code-deep-learning",
-    "href": "index.html#code-deep-learning",
-    "title": "Deep Learning, Generative AI & Agentic Systems",
-    "section": "Code: Deep Learning",
-    "text": "Code: Deep Learning\n\nLogistic Regression from Scratch\nShallow Neural Networks\nDeep Neural Networks"
-  },
-  {
-    "objectID": "index.html#code-generative-models",
-    "href": "index.html#code-generative-models",
-    "title": "Deep Learning, Generative AI & Agentic Systems",
-    "section": "Code: Generative Models",
-    "text": "Code: Generative Models\n\nVariational Autoencoder (VAE)\nNormalizing Flows - Real NVP"
+    "section": "Code & Implementation",
+    "text": "Code & Implementation\n\nLogistic Regression from Scratch\nShallow Neural Networks\nDeep Neural Networks\nVariational Autoencoder (VAE)\nNormalizing Flows - Real NVP"
   }
 ]
