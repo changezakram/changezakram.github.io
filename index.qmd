@@ -40,7 +40,7 @@ and
 - [Bias, Toxicity, and Safety in AI Systems](https://changezakram.github.io/responsible-ai/ai-safety.html)
 - [Explainable AI](https://changezakram.github.io/responsible-ai/explainable-ai.html)
 
-## Deep Generative Models {.g-col-6 .card .p-4 .mb-3}
+## Generative AI  {.g-col-6 .card .p-4 .mb-3}
 - [Introduction to Generative AI](https://changezakram.github.io/Deep-Generative-Models/)
 - [Variational Autoencoders (VAEs)](https://changezakram.github.io/Deep-Generative-Models/vae.html)
 - [Normalizing Flows](https://changezakram.github.io/Deep-Generative-Models/flows.html)

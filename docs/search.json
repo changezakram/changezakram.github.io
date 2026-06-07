@@ -21,11 +21,11 @@
     "text": "Responsible AI\n\nSecuring Agentic AI Systems\nBias, Toxicity, and Safety in AI Systems\nExplainable AI"
   },
   {
-    "objectID": "index.html#deep-generative-models",
-    "href": "index.html#deep-generative-models",
+    "objectID": "index.html#generative-ai",
+    "href": "index.html#generative-ai",
     "title": "Deep Learning, Generative AI & Agentic Systems",
-    "section": "Deep Generative Models",
-    "text": "Deep Generative Models\n\nIntroduction to Generative AI\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
+    "section": "Generative AI",
+    "text": "Generative AI\n\nIntroduction to Generative AI\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
   },
   {
     "objectID": "index.html#agentic-ai",
