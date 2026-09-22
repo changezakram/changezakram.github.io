@@ -21,11 +21,11 @@
     "text": "Responsible AI\n\nSecuring Agentic AI Systems\nBias, Toxicity, and Safety in AI Systems\nExplainable AI\nAgentic AI Governance"
   },
   {
-    "objectID": "index.html#generative-ai",
-    "href": "index.html#generative-ai",
+    "objectID": "index.html#ai-engineering-architecture",
+    "href": "index.html#ai-engineering-architecture",
     "title": "Deep Learning, Generative AI & Agentic Systems",
-    "section": "Generative AI",
-    "text": "Generative AI\n\nIntroduction to Generative AI\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
+    "section": "AI Engineering & Architecture",
+    "text": "AI Engineering & Architecture\n\nWhy Enterprise AI Needs a Semantic Layer"
   },
   {
     "objectID": "index.html#agentic-ai",
@@ -33,6 +33,13 @@
     "title": "Deep Learning, Generative AI & Agentic Systems",
     "section": "Agentic AI",
     "text": "Agentic AI\n\nIntroduction to Agentic AI\nAgentic Analytics\nSmall Language Models\nMulti-Agent Orchestration"
+  },
+  {
+    "objectID": "index.html#generative-ai",
+    "href": "index.html#generative-ai",
+    "title": "Deep Learning, Generative AI & Agentic Systems",
+    "section": "Generative AI",
+    "text": "Generative AI\n\nIntroduction to Generative AI\nVariational Autoencoders (VAEs)\nNormalizing Flows\nEnergy-Based Models (EBMs)\nDiffusion Models"
   },
   {
     "objectID": "index.html#large-language-models-llms",
