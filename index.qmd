@@ -47,7 +47,7 @@ and
 ## AI Engineering & Architecture {.g-col-6 .card .p-4 .mb-3}
 - [Why Enterprise AI Needs a Semantic Layer](https://changezakram.github.io/ai-engineering/semantic-layer.html)
 - [Fix the Data Before You Pick the Model](https://changezakram.github.io/ai-engineering/fix-the-data-first.html)
-
+- [Where AI Analytics Accuracy Comes From](https://changezakram.github.io/ai-engineering/where-ai-analytics-accuracy-comes-from.html)
 
 
 
